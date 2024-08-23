@@ -1,0 +1,61 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Angular
+/dist/
+out-tsc/
+.angular/
+.sass-cache/
+.vscode/
+coverage/
+tmp/
+temp/
+
+# Compiled output
+/build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Miscellaneous
+*.swp
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# TypeScript cache
+*.tsbuildinfo
+
+# MySQL Workbench
+*.sql
+
+# Package lock files
+package-lock.json
+yarn.lock
+
+# Other
+*.bak
+*.tmp
